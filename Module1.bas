@@ -1,6 +1,6 @@
 Attribute VB_Name = "Module1"
 Sub skdfsdlkfm()
-'test
+    'test
 
 End Sub
 
@@ -9,7 +9,7 @@ Sub another()
 End Sub
 
 Sub Anothergagain()
- 'test
+    'test
 End Sub
 
 Sub anotherlkm()
@@ -21,3 +21,9 @@ Sub jhknm()
 End Sub
 
 Sub weetgf()
+    'TODO Yeah sucks here'
+    ''todo
+    
+    Var test = 1
+    
+End Sub
