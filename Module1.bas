@@ -23,7 +23,7 @@ End Sub
 Sub weetgf()
     'TODO Yeah sucks here'
     ''todo
-    
+    var local
     Var test = 1
     ' TODO does noyt work
 End Sub
