@@ -22,10 +22,10 @@ End Sub
 
 Sub weetgf()
     'TODO Yeah sucks here'
-    ''todo
+    ''todo here
     var local
     Var test = 1
     ' TODO does noyt work
-
+    'another tst
     Var test
 End Sub
