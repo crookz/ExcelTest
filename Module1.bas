@@ -26,4 +26,6 @@ Sub weetgf()
     var local
     Var test = 1
     ' TODO does noyt work
+
+    Var test
 End Sub
